@@ -1,0 +1,17 @@
+{
+	"name": "console",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Command line arguments and console",
+	"main": "date.js",
+	"scripts": {},
+	"keywords": [],
+	"license": "ISC",
+	"bin": {
+		"simple-date": "date.js",
+		"simple-quiz": "quiz.js"
+	},
+	"dependencies": {
+		"yargs": "^17.5.1"
+	}
+}
